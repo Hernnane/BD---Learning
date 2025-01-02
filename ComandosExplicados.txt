@@ -8,6 +8,7 @@
 	*MIN(): Retorna o menor valor de uma coluna.
 	*GROUP BY: Agrupa os dados em um grupo com um nome selecionado por você.
 	*HAVING: Filtra os grupos criados com GROUP BY.
+	*DISTINCT: Usado para remover duplicadas no resultado (garante valores únicos).
 	
 OBS => Para utilizar as funções agragadas deve-se usar o comando 'AS' e criar um nome para a consulta, para gerar uma tabela onde será exibido o resultado da consulta!
 

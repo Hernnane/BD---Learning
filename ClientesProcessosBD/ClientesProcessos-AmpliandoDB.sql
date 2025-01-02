@@ -80,9 +80,9 @@ VALUES
 
 INSERT INTO Processos (ClienteID, Descricao, DataAbertura, Status)
 VALUES
-(1, 'Revisão Contratual', '2023-03-10', 'Em andamento'),
-(2, 'Rescisão Trabalhista', '2022-11-15', 'Concluído'),
-(3, 'Ação de Cobrança', '2023-05-20', 'Aberto'),
+(10, 'Revisão Contratual', '2023-03-10', 'Em andamento'),
+(20, 'Rescisão Trabalhista', '2022-11-15', 'Concluído'),
+(30, 'Ação de Cobrança', '2023-05-20', 'Aberto'),
 (4, 'Reclamação Cível', '2023-02-18', 'Em andamento'),
 (5, 'Pedido de Indenização', '2021-10-12', 'Concluído'),
 (6, 'Consultoria Tributária', '2023-01-30', 'Concluído'),
